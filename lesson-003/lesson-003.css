@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.sub_nav{
+    width: 100%;
+    height: 40px;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+}
+.collection_sub{
+    list-style: none;
+    display: flex;
+    color: grey;
+    margin-right: 50px;
+}
+.invisible{
+    flex: 1;
+}
+.room{
+    width: 100%;
+    height : 130px ;
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+.collection_sub > li{
+    margin: 0px 20px;
+}
+.items{
+    list-style: none;
+    color: #000;
+    display: flex;
+    margin-left: 100px;
+    justify-content: space-around;
+    flex: 1;
+}
+.items > li{
+    margin:0px 50px
+}
+.rasm{
+    margin-right: 10px          ;
+}
+.title{
+    margin-right: 50px;
+}
+.rooms{
+    margin-left: 30px;
+}
+.kaka{
+    Width: 1327px;
+Height :746px;
+Top :188px;
+Left :57px;
+margin-left: 100px;
+}
+
+/* calc: () => detail */
+.h1lar{
+    display: flex;
+}
+.h1lar > h1{
+    width: 20%;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 58px;
+    color: #1A1A1A;
+    padding: 30px 0px 0px 15%;
+
+}
+.h1lar > p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 40px;
+    color: #AAAAAA;
+    width: 35%;
+    padding: 30px 0px 0px 15%;
+
+}
+.rasmlar{
+    Width :1296px;
+    Height: 962px;
+    margin-left :100px;
+    margin-top: 200px;
+    display: flex;
+}
+.rasml{
+    width: 1296px;
+    height: 962px;
+    
+}
+.rasmla{
+    width: 1296px;
+    height: 962px;
+}
+.leading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    color: #1A1A1A;
+}
+.over{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+}
+.ronaldinyo{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.kaka{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    font-size: 30px;
+}
+.rasm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+}
+.picture{
+    margin-left: 100px;
+    Width :1344px;
+    Height :700px;
+}
+.asosiy{
+    Width :1440px;
+    Height :11082px;
+  
+}
+
+.simple{
+    margin-left: 400px;
+    font-size: 30px;
+    color: #1A1A1A;
+    font-family: sans-serif;
+}
+.get{
+    color: dodgerblue;
+    margin-left: 100px;
+    font-size: 20px ;
+}
+.soat{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    margin-left: 100px;
+}
+.soat-1{
+    width: 162px;
+    height: 121px;
+}
+.ron{
+    color: gray;
+}
+.main{
+    Width :1344px;
+    height: 400px;
+    background-color: white;
+    margin-left: 100px;    
+    display: flex;
+}
+.taymer{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+   
+}
+.keng{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    margin-left: 100px;
+}
+.messi{
+    Width :1340px;
+    Height :800px;
+    background-color: dodgerblue;
+    margin-left: 100px;
+   background-image: url('./Rectangle\ \(5\).png');
+}
+
+.item{
+    list-style: none;
+    display: flex;
+    color: yellow;
+    margin-left: 195px ;
+}
+.we{
+    color: white;
+    font-family: sans-serif;
+    margin-left: 195px;
+    font-size: 24px;
+
+}
+.google{
+    color: grey;
+    margin-left: 195px  ;
+    font-size: 24px;
+}
+.read{
+    margin-left: 200px;
+    color: grey;
+    font-size: 24px;
+}
+.rona{
+    color: gray;
+    margin-left: 300px;
+    margin-top: 500px;
+    font-size: 30px;    
+
+
+}
+.work{
+    color: #1A1A1A;
+    margin-left: 305px;
+    font-size: 30px;
+}
+.ronal{
+    Width :1000px;
+    Height :300px;
+    margin-top: 240px;
+}
+.songi{
+    width: 1200px;
+    height: 672px;
+    background-color: white;
+    display: flex;
+}
+.ronaldo{
+    color: gray;
+    margin-top: 170px;
+    margin-left: 50px;
+}
+.sell{
+    margin-left: 100px;
+}
+.sel{
+    width: 600px;
+    height: 672px;
+    background-color: white;
+}
+.odamlar{
+    width: 600px;
+    height: 336px;
+}
+.direct{
+    margin-top: 50px ;
+    margin-left: 150px;
+}
